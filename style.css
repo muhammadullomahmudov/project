@@ -293,7 +293,6 @@ list-style: none;
             justify-content: center;
             align-items: center;
             display: flex;
-            flex-direction: column;
         }
         .hero-list__inner {
             max-width: 564px;
@@ -363,7 +362,7 @@ position: relative;
         .bottom__link {
             color: #000;
             text-decoration: none;
-            padding: 5px 50px;
+            padding: 5px 25px;
             background-color: #D9D9D900;
             border: 1px solid #000000;
             border-radius: 30px;
